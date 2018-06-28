@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
-namespace WindowsFormsApp_DemoGit
+using System.Diagnostics
+using WindowsFormsApp_DemoGit
 {
     static class Program
     {
@@ -17,6 +17,8 @@ namespace WindowsFormsApp_DemoGit
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            Debug.Write("Local Copy");
+
         }
     }
 }
