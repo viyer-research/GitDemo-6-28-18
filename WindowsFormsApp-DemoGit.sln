@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp-DemoGit", "WindowsFormsApp-DemoGit\WindowsFormsApp-DemoGit.csproj", "{011895C5-F23B-4A95-9875-56F4646052E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{011895C5-F23B-4A95-9875-56F4646052E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{011895C5-F23B-4A95-9875-56F4646052E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{011895C5-F23B-4A95-9875-56F4646052E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{011895C5-F23B-4A95-9875-56F4646052E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AB9AF91-8FA9-489B-B388-3B3F7BE75895}
+	EndGlobalSection
+EndGlobal
